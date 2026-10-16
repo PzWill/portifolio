@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "ascii-audio",
+    "title": "Audio-Reactive ASCII 3D",
+    "category": "Web & 3D",
+    "stack": [
+      "JavaScript",
+      "Three.js",
+      "Web Audio API"
+    ],
+    "summary": "Modelos 3D convertidos em caracteres ASCII, com movimento e efeitos reativos ao áudio.",
+    "description": "Experimento visual para importar modelos OBJ, STL e GLB e renderizá-los em ASCII no navegador. A análise de frequências de áudio controla escala, rotação e brilho.",
+    "highlights": [
+      "Entrada por microfone ou captura de áudio compartilhado, mediante permissão.",
+      "Conjuntos de caracteres, temas de cor e controles de sensibilidade.",
+      "Exportação de configurações e do renderizador em HTML, conforme o README."
+    ],
+    "github": "https://github.com/PzWill/acii-reativo-a-musica"
+  },
+  {
+    "slug": "tron-3d",
+    "title": "TRON Evolution 3D",
+    "category": "Web & 3D",
+    "stack": [
+      "TypeScript",
+      "Three.js",
+      "Vite"
+    ],
+    "summary": "Experimento de jogo 3D no navegador com motos, rastros luminosos e oponentes controlados por IA.",
+    "description": "Projeto de jogo inspirado nas Light Cycles de TRON. Explora câmera em primeira pessoa, modelos GLTF e construção de uma experiência interativa em Three.js.",
+    "highlights": [
+      "Câmera em primeira pessoa, turbo e interface com pontuação.",
+      "Rastros procedurais usando InstancedMesh.",
+      "Oponentes com lógica de desvio de obstáculos descrita no README."
+    ],
+    "github": "https://github.com/PzWill/tron-evolution-3d"
+  },
+  {
+    "slug": "daily-dash",
+    "title": "Daily Dash",
+    "category": "Desktop",
+    "stack": [
+      "C#",
+      "Markdown",
+      "Milkdown"
+    ],
+    "summary": "Organizador de tarefas diárias, semanais e mensais com armazenamento em Markdown.",
+    "description": "Aplicação de produtividade em C# que organiza tarefas por período e salva os dados dos dias em arquivos .md. O repositório inclui integração com Milkdown para edição de Markdown.",
+    "highlights": [
+      "Organização de tarefas diárias, semanais e mensais.",
+      "Persistência em arquivos Markdown.",
+      "Código com componentes de notas, tags e visualização de progresso."
+    ],
+    "github": "https://github.com/PzWill/daily-dash-1.0"
+  },
+  {
+    "slug": "fronteira-quantica",
+    "title": "Do Silício ao Qubit",
+    "category": "Pesquisa",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "summary": "Site de estudos sobre computação quântica, criado durante uma pesquisa sobre emaranhamento.",
+    "description": "Projeto editorial de exploração da computação quântica. Reúne tópicos como correção de erros, energia de simulação, criptografia pós-quântica e o papel do desenvolvedor.",
+    "highlights": [
+      "Conteúdo organizado em seções temáticas sobre computação quântica.",
+      "Exploração de interfaces para comunicar temas técnicos.",
+      "Material de estudo pessoal; não apresentado como publicação científica revisada."
+    ],
+    "github": "https://github.com/PzWill/site-sobre-coisas-quanticas"
+  }
+]

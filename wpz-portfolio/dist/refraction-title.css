@@ -1,0 +1,5 @@
+.optical-title .word-ink,.optical-title em.optical-word .word-ink{mask-image:none!important;text-shadow:none!important;filter:none!important;transform:none!important}
+.optical-title{position:relative;isolation:isolate}
+.optical-title.has-glass-type .optical-word{visibility:hidden}
+.title-glass-canvas{position:absolute;inset:-24px;pointer-events:none;z-index:4;visibility:visible}
+@media(prefers-reduced-motion:reduce){.title-glass-canvas{display:none}.optical-title.has-glass-type .optical-word{visibility:visible}}
